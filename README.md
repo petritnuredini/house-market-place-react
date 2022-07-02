@@ -15,3 +15,13 @@
 ![image](https://i.imgur.com/ECPEHgq.png)
 
 ![image](https://i.imgur.com/wtGuKwv.png)
+
+
+## How to use?
+
+- In your terminal write : 
+- git clone https://github.com/petritnuredini/house-market-place-react.git
+- cd house-market-place-react
+- Create .env file and insert Google API KEY
+- npm install
+- npm run start 
